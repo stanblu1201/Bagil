@@ -1,0 +1,330 @@
+.desktop-1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #213361;
+    width: 1440px;
+    height: 1024px;
+}
+.desktop-1-item {
+    position: absolute;
+    top: 1030px;
+    left: 255px;
+    background: linear-gradient(180.1deg, #ffdf2b 19.49%, #fff8db);
+    width: 1185px;
+    height: 838px;
+}
+.desktop-1-inner {
+    position: absolute;
+    top: 1030px;
+    left: 0px;
+    background-color: #213361;
+    width: 255px;
+    height: 838px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 184px;
+    left: 0px;
+    width: 1440px;
+    height: 840px;
+    object-fit: cover;
+}
+.bagilcreates-1-icon {
+    position: absolute;
+    top: 846px;
+    left: 255px;
+    width: 1185px;
+    height: 876px;
+    object-fit: cover;
+}
+.bagil-creates {
+    position: absolute;
+    top: 1844px;
+    left: 80px;
+    font-size: 90px;
+    font-family: Heavitas;
+    color: #fcf6da;
+    text-align: left;
+    display: inline-block;
+    width: 540px;
+    height: 213px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.icon {
+    position: absolute;
+    top: 68px;
+    left: 1009px;
+    width: 44px;
+    height: 42px;
+    object-fit: cover;
+}
+.icon1 {
+    position: absolute;
+    top: 68px;
+    left: 948px;
+    width: 44px;
+    height: 42px;
+    object-fit: cover;
+}
+.bagil-creates-is-a {
+    position: absolute;
+    top: 1639px;
+    left: 340px;
+    font-size: 25px;
+    text-align: left;
+    display: inline-block;
+    width: 914px;
+    height: 214px;
+}
+.the-artist {
+    position: absolute;
+    top: 202px;
+    left: 485px;
+    font-size: 80px;
+    display: inline-block;
+    width: 470px;
+    height: 120px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 178px;
+    left: 0px;
+    background-color: #ff971b;
+    width: 1440px;
+    height: 6px;
+}
+.desktop-1-child1 {
+    position: absolute;
+    top: 1024px;
+    left: 0px;
+    background-color: #ffdf2b;
+    width: 1440px;
+    height: 6px;
+}
+.desktop-1-child2 {
+    position: absolute;
+    top: 2658px;
+    left: 0px;
+    background-color: #ffdf2b;
+    width: 1440px;
+    height: 45px;
+}
+.stanbongcawel1201gmailcom1 {
+    text-decoration: underline;
+}
+.stanbongcawel1201gmailcom {
+    color: inherit;
+}
+.stephen-angelo-s-container {
+    position: absolute;
+    top: 2668px;
+    left: 104px;
+    font-size: 17px;
+    font-weight: 600;
+    display: inline-block;
+    width: 1231px;
+    height: 25px;
+}
+.line-div {
+    position: absolute;
+    top: 48.5px;
+    left: 1079.5px;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1px;
+    height: 81px;
+}
+.home {
+    position: absolute;
+    top: 76px;
+    left: 1105px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    width: 67px;
+    height: 44px;
+}
+.about {
+    position: absolute;
+    top: 76px;
+    left: 1187px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    width: 67px;
+    height: 44px;
+}
+.services {
+    position: absolute;
+    top: 76px;
+    left: 1269px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    width: 105px;
+    height: 44px;
+}
+.desktop-1-child3 {
+    position: absolute;
+    top: 1866px;
+    left: 0px;
+    background-color: #276ca5;
+    width: 1440px;
+    height: 620px;
+    display: none;
+}
+.desktop-1-child4 {
+    position: absolute;
+    top: 2px;
+    left: 58px;
+    width: 224px;
+    height: 176px;
+    object-fit: cover;
+}
+.desktop-1-child5 {
+    position: absolute;
+    top: 1982px;
+    left: 0px;
+    background-color: #ff971d;
+    width: 1440px;
+    height: 686px;
+}
+.icon2 {
+    position: absolute;
+    top: 2006px;
+    left: 106px;
+    width: 516px;
+    height: 274px;
+    object-fit: cover;
+}
+.icon3 {
+    position: absolute;
+    top: 2323px;
+    left: 105px;
+    width: 516px;
+    height: 257px;
+    object-fit: cover;
+}
+.icon4 {
+    position: absolute;
+    top: 2006px;
+    left: 816px;
+    width: 520px;
+    height: 287px;
+    object-fit: cover;
+}
+.icon5 {
+    position: absolute;
+    top: 2328px;
+    left: 816px;
+    width: 520px;
+    height: 299px;
+    object-fit: cover;
+}
+.multimedia {
+    position: absolute;
+    top: 2245px;
+    left: 106px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 517px;
+}
+.simple-5 {
+    position: absolute;
+    top: 2288px;
+    left: 106px;
+    font-size: 24px;
+    text-transform: capitalize;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 517px;
+}
+.painting {
+    position: absolute;
+    top: 2245px;
+    left: 819px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 517px;
+}
+.starts-from-30 {
+    position: absolute;
+    top: 2288px;
+    left: 785px;
+    font-size: 24px;
+    display: inline-block;
+    width: 585px;
+}
+.sketch {
+    position: absolute;
+    top: 2570px;
+    left: 106px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 517px;
+}
+.starts {
+    text-transform: capitalize;
+}
+.starts-from-5-container {
+    position: absolute;
+    top: 2613px;
+    left: 106px;
+    font-size: 24px;
+    display: inline-block;
+    width: 517px;
+}
+.related-to-arts {
+    position: absolute;
+    top: 2613px;
+    left: 815px;
+    font-size: 24px;
+    display: inline-block;
+    width: 517px;
+}
+.desktop-1-child6 {
+    position: absolute;
+    top: 1859px;
+    left: 0px;
+    background-color: #fff8db;
+    width: 1440px;
+    height: 123px;
+}
+.others {
+    position: absolute;
+    top: 2570px;
+    left: 815px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 517px;
+}
+.services1 {
+    position: absolute;
+    top: 1882px;
+    left: 396px;
+    font-size: 96px;
+    font-family: Heavitas;
+    display: inline-block;
+    width: 648px;
+    height: 120px;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2703px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 32px;
+    color: #213361;
+    font-family: Poppins;
+}
+
